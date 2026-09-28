@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NavarroJaime_AtidiAyoub_JimenezPablo_UT2_Lab</string>
+
+    <string-array name="razas_tierra_media">
+        <item>Hobbit</item>
+        <item>Elfo</item>
+        <item>Enano</item>
+        <item>Humano</item>
+    </string-array>
+
+</resources>
